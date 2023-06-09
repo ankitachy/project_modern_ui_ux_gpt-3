@@ -1,4 +1,10 @@
-# project_modern_ui_ux_gpt-3
+![Screenshot (283)](https://github.com/ankitachy/project_modern_ui_ux_gpt-3/assets/75175336/5a76f220-1ec0-4457-a348-1c25acd731a1)
+![Screenshot (284)](https://github.com/ankitachy/project_modern_ui_ux_gpt-3/assets/75175336/e6de07f9-5115-41ae-851e-55a2857491e0)
+![Screenshot (285)](https://github.com/ankitachy/project_modern_ui_ux_gpt-3/assets/75175336/9cd1a585-9623-4de5-8108-f573e119994f)
+![Screenshot (286)](https://github.com/ankitachy/project_modern_ui_ux_gpt-3/assets/75175336/09183893-5188-4c33-b234-8530aa4d6f28)
+
+# modern_ui_ux_gpt-3
+
 master the creation of ux/ui website. created it for learning purpose.
 
 Introduction
